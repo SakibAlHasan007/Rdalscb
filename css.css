@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+
+
+#rda_h1{
+    text-align: center;
+    color: chartreuse;
+}
+
+
+
+table{
+    border-style: outset;
+    border-radius: 15%;
+    border-width: 5px;
+    border-color: red;
+}
